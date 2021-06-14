@@ -101,6 +101,10 @@ p{
   color: #51C4D3;
 }
 
+.fab:hover{
+  color: #51C4D3;
+}
+
 .certificate{
   text-decoration: none;
   color: #8f8f8f;
@@ -257,5 +261,14 @@ p{
     font-weight: 700;
     font-size: 1.8rem;
   }
+  
+  .fas{
+    margin-bottom: 2rem;
+  }
+  
+  .fab{
+    margin-bottom: 2rem;
+  }
+
 
 }
