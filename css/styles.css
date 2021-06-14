@@ -48,7 +48,7 @@ p{
 .navbar-brand{
   font-family: 'Audiowide', cursive;
   font-size: 2.5rem;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .nav-item{
@@ -191,11 +191,71 @@ p{
     padding-top: 10%;
     position: static;
     transform: rotate(0);
-    width: 60%;
+    width: 80%;
   }
 
   .press-logo{
     width: 25%;
     margin: 15px 15px 50px;
   }
+
+  h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5rem;
+    line-height: 1.5;
+    font-weight: 900;
+
+  }
+
+  h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 700;
+  }
+
+  h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 700;
+  }
+
+  p{
+    font-size: 1.8rem;
+  }
+
+  .download-button{
+    margin: 15% 3% 10% 0;
+    font-size: 2.5rem;
+  }
+
+  em{
+    font-size: 1.8rem;
+  }
+
+  .footerIcons{
+      width: 8%;
+  }
+
+  .navbar-brand{
+    font-size: 4rem;
+  }
+
+  .nav-link{
+    font-size: 2.5rem;
+  }
+
+  .aboutme-text{
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding: 8% 7% 1% 7%;
+  }
+
+  .certificate{
+    text-decoration: none;
+    color: #8f8f8f;
+    font-weight: 700;
+    font-size: 1.8rem;
+  }
+
 }
