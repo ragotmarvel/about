@@ -45,6 +45,8 @@ p{
   padding-bottom: 4.5rem;
 }
 
+
+
 .navbar-brand{
   font-family: 'Audiowide', cursive;
   font-size: 2.5rem;
@@ -98,11 +100,11 @@ p{
 }
 
 .fas:hover{
-  color: #51C4D3;
+  color: #3EDBF0;
 }
 
 .fab:hover{
-  color: #51C4D3;
+  color: #3EDBF0;
 }
 
 .certificate{
@@ -197,6 +199,10 @@ a{
 
 p{
   font-size: 0.75rem;
+}
+
+.IconVector{
+  color: #1CC5DC;
 }
 
 
