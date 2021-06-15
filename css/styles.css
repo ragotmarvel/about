@@ -141,6 +141,15 @@ p{
   margin: 15px 15px 50px;
 }
 
+/*Skills Section*/
+
+#skills{
+  padding: 2%;
+}
+
+.feature-box{
+  padding: 2% 5% 2% 5%;
+}
 
 /*AboutMe Section*/
 
@@ -275,7 +284,7 @@ p{
   .aboutme-text{
     font-size: 2.5rem;
     font-weight: 700;
-    padding: 8% 3% 3% 7%;
+    padding: 8% 7% 3% 7%;
   }
 
   .imageMe{
@@ -302,5 +311,14 @@ p{
     margin: 5% 0% 2% 0%;
     font-size: 2.5rem;
   }
+
+  #skills{
+    padding: 4%;
+  }
+
+  .feature-box{
+    padding: 5% 10% 5% 10%;
+  }
+
 
 }
