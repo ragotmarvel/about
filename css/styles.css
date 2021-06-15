@@ -147,8 +147,9 @@ p{
   padding: 2%;
 }
 
-.feature-box{
-  padding: 2% 5% 2% 5%;
+.skills-Box{
+  text-align: center;
+  padding: 3% 5% 3% 5%;
 }
 
 /*AboutMe Section*/
@@ -316,7 +317,7 @@ p{
     padding: 4%;
   }
 
-  .feature-box{
+  .skills-Box{
     padding: 5% 10% 5% 10%;
   }
 
