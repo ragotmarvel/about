@@ -179,6 +179,15 @@ p{
   margin: 5% 0% 0% 0%;
 }
 
+.academy-badge{
+  width: 50%;
+  margin: 5% auto 0% auto;
+}
+
+.hubspotImage{
+  width: 100%;
+}
+
 /*Footer*/
 
 #footer{
@@ -329,5 +338,7 @@ p{
   .feature-box{
     padding: 5% 10% 5% 10%;
   }
+
+
 
 }
