@@ -109,9 +109,13 @@ p{
 .certificate{
   text-decoration: none;
   color: #8f8f8f;
+  font-weight: 700;
   font-size: 0.75rem;
 }
 
+.certificate:hover{
+  color: #3EDBF0;
+}
 
 /*Testimonials Section*/
 
@@ -157,7 +161,7 @@ p{
 
 #aboutme{
   background-color: #1CC5DC;
-  padding: 7% 15%;
+  padding: 5% 15%;
   text-align: center;
   color: #fff;
 }
@@ -179,13 +183,26 @@ p{
   margin: 5% 0% 0% 0%;
 }
 
+/*Certificates*/
+
+#certificates{
+  background-color: #1CC5DC;
+  text-align: center;
+  padding-bottom: 0%;
+}
+
 .academy-badge{
-  width: 50%;
-  margin: 5% auto 0% auto;
+  margin: auto auto 1% auto;
 }
 
 .hubspotImage{
-  width: 100%;
+  padding: 1% 3% 5% 3%;
+  width: 37%;
+}
+
+.GoogleAdsImage{
+  padding: 1% 3% 5% 3%;
+  width: 30%;
 }
 
 /*Footer*/
@@ -193,7 +210,7 @@ p{
 #footer{
   background-color: #fff;
   text-align: center;
-  padding: 7% 0% 1% 0%;
+  padding: 5% 0% 1% 0%;
 }
 
 .footerIcons{
@@ -339,6 +356,16 @@ p{
     padding: 5% 10% 5% 10%;
   }
 
+
+  .hubspotImage{
+    padding: 1% 3% 5% 3%;
+    width: 75%;
+  }
+
+  .GoogleAdsImage{
+    padding: 1% 3% 5% 3%;
+    width: 75%;
+  }
 
 
 }
